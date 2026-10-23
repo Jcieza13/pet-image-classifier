@@ -1,6 +1,6 @@
 # 🐶 Pet Image Classifier
 
-Proyecto académico realizado como parte del programa **AWS AI Programmer de Udacity**.
+Proyecto académico realizado como parte del programa Nanodegree **Future AWS AI Programmer de Udacity**.
 
 ## 📋 Descripción
 
