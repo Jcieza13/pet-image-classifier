@@ -234,6 +234,6 @@ Durante el desarrollo del proyecto se trabajó con los siguientes conceptos y he
 
 ## 👨‍💻 Autor
 
-**Jen Pierr Ismael Cieza Diaz**
+**Jen Pierr **
 
 Proyecto académico realizado como parte del programa **AWS AI Programmer de Udacity**.
